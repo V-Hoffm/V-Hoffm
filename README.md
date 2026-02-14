@@ -8,3 +8,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 </div>
+
+🚀 Sobre Mim
+
+Com um background sólido em Business Intelligence (BI) e Análise de Dados, estou focado na transição de carreira para Engenharia de Dados.
