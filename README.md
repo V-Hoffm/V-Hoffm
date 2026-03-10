@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Analista de dados mudando para Engenheiro de dados | SQL | Python | Power BI</h2>
+<h2> Estudante de Engenheira de dados | SQL | Python | Power BI</h2>
 <a href="mailto:victorhoffmann09@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
